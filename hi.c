@@ -2,6 +2,6 @@
 
 int main() {
 
-	printf("master");
+	printf("mk2");
 
 }
